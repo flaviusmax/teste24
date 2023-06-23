@@ -1,8 +1,8 @@
 <?php
- $teste2 = 22;
+ $teste2 = "pagina teste.php";
 //teste cinci
 
 
 echo "Teste doi  $test" ;
 
-echo "aceesta este pagina principala INDEX"; 
+echo "aceasta este "; 
