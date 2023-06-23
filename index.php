@@ -15,4 +15,7 @@ echo "<br>a doua schimbare";
 echo "<br>a treia schimbare";
 
 
-echo "<br>a patra schimbare, DIN LOCAAL in => REMOTE";
+echo "<br>a patra schimbare, DIN LOCAL in => REMOTE";
+
+
+echo "<br>a cincea schimbare, DIN HUB in => LOCO cu lucru pe BRANCH = 'TESTULESCU' ";
