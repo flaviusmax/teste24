@@ -1,3 +1,3 @@
 <?php
-
-echo "acesta este pagina de index"; 
+$indexPage = "index PAAGE" :
+echo "acesta este pagina: $indexPage"; 
