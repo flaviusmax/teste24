@@ -16,3 +16,6 @@ echo "<br>a treia schimbare";
 
 
 echo "<br>a patra schimbare, DIN LOCAAL in => REMOTE";
+
+
+echo "Schimbare de pe local pe main teste decembrie 2023";
